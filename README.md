@@ -1,1 +1,1 @@
-# numpy-random
+# Overview of Numpy Random Package
